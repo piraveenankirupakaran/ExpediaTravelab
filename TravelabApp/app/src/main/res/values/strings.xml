@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Travelab App</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here</string>
+    <string name="you_re_not_in_any_groups">You\'re not in any groups!</string>
+    <string name="create_group">Create Group</string>
+    <!--Test values for displaying groups in GroupDisplay-->
+    <string-array name="testgroupnames">
+        <item>Test Group 1</item>
+        <item>Test Group 2</item>
+        <item>Test Group 3</item>
+    </string-array>
+
+    <string-array name="members">
+        <item>6</item>
+        <item>3</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="misc">
+        <item>girls holiday!!! lets get lit Queens ;))))</item>
+        <item>Johnson Family Holiday</item>
+        <item>family holiday: pending invites!</item>
+    </string-array>
+    <string name="logout">Logout</string>
+    <string name="save_information">Save Information</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="textviewu">TextViewU</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="accommodation">Accommodation</string>
+</resources>

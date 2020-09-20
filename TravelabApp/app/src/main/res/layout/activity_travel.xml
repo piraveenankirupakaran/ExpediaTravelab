@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editTextFlightFrom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Flight from" />
+
+    <EditText
+        android:id="@+id/editTextFlightTo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Flight to" />
+
+    <EditText
+        android:id="@+id/editTextDepartDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Depart date"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/editTextReturnDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Return date"
+        android:inputType="date" />
+
+    <Button
+        android:id="@+id/buttonSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Flight from" />
+
+    <EditText
+        android:id="@+id/editTextFlightFrom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Flight to" />
+
+    <EditText
+        android:id="@+id/editTextFlightTo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/departDate1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Depart Date" />
+
+    <Button
+        android:id="@+id/departDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Depart Date"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/returnDate1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Return Date" />
+
+    <Button
+        android:id="@+id/returnDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Return Date"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />/>
+
+
+    <Button
+        android:id="@+id/buttonSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search" />
+
+</LinearLayout>
